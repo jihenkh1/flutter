@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "25727079810",
+    "firebase_url": "https://social-media-flutter-f1a31-default-rtdb.firebaseio.com",
+    "project_id": "social-media-flutter-f1a31",
+    "storage_bucket": "social-media-flutter-f1a31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25727079810:android:6ac9a88b3aff6292a16b9b",
+        "android_client_info": {
+          "package_name": "com.esprit.WeBuild.social_media_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_zBaOPgPvrFCu1vIOCMbmDokFxMOpecM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25727079810:android:9d3403a63fc77ed3a16b9b",
+        "android_client_info": {
+          "package_name": "com.example.socialmediaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_zBaOPgPvrFCu1vIOCMbmDokFxMOpecM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
